@@ -79,7 +79,7 @@ Nas casas que usamos o resultado da potência para chagoar ao número em questã
 
 |       | casa 5| casa4 | casa3 | casa2 | casa1 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|  Res  |  16   |   8   |   4   |   2   |   1   |
+|Result |  16   |   8   |   4   |   2   |   1   |
 |  Bin  |   1   |   0   |   0   |   1   |   1   |
 |  Pot  |  2^4  |  2^3  |  2^2  |  2^1  |  2^0  |
 
